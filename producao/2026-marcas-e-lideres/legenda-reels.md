@@ -12,8 +12,6 @@ Na 16ª edição do prêmio realizado pela @acigra_oficial, a comunidade reconhe
 
 Por trás de cada marca existe uma história. E cada uma delas é construída com trabalho, consistência e relações de confiança.
 
-No vídeo, ouvimos @sougrazimartini, coordenadora do Conecta, os nucleados premiados e @brazquiropraxia, que esteve lá para prestigiar os colegas.
-
 Parabéns a cada nucleado premiado e obrigado à ACIGRA por valorizar quem empreende em Gravataí.
 
 Conecta | Pessoas que fortalecem pessoas. Negócios que crescem juntos.
@@ -30,5 +28,3 @@ Conecta | Pessoas que fortalecem pessoas. Negócios que crescem juntos.
 | @pampasgarden_paisagismo | Pampas Garden · Alexandre Marcos |
 | @eloisafotografiafeminina | Parkolor · Eloisa Nunes (perfil que está no Guia) |
 | @lacosmeticos.rs | LA Cosméticos · Adriana Mocelin |
-| @sougrazimartini | Grazi Martini · coordenadora do Conecta |
-| @brazquiropraxia | Braz Quiropraxia · Francielle Braz |
