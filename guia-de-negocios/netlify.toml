@@ -1,0 +1,9 @@
+# Configuração do site estático "Guia de Negócios do Conecta".
+# Este site é apenas um index.html pronto (sem etapa de build).
+# No painel do Netlify, defina "Base directory" = guia-de-negocios para que ele
+# use ESTE arquivo.
+[build]
+  # Sem build: o conteúdo já está pronto nesta pasta.
+  command = ""
+  # Publica a própria pasta guia-de-negocios (relativa ao base directory).
+  publish = "."

@@ -1,0 +1,40 @@
+{
+  "marca": "Conecta · Núcleo de Negócios ACIGRA",
+  "cores": {
+    "principais": { "turquesa": "#00CEC9", "navy": "#1B2A4A", "warm": "#FAF9F7" },
+    "auxiliares": {
+      "dark": "#0F1B33", "darker": "#0A1222",
+      "apoioEscuro": "#8395A7", "apoioClaro": "#636E72",
+      "offWhite": "#C8D6E5", "branco": "#FFFFFF"
+    },
+    "paletaEstendida": {
+      "branco": "#FFFFFF", "teal": "#1C9E8C", "turquesaVivo": "#2FE0D2",
+      "aco": "#73839E", "marinhoProfundo": "#16294A", "ardosia": "#52627E",
+      "gelo": "#DBE4EC", "quaseBranco": "#EDF1F7"
+    },
+    "gradientes": {
+      "navy": "linear-gradient(170deg, #0A1222 0%, #0F1B33 40%, #1B2A4A 100%)",
+      "cta": "radial-gradient(ellipse at 50% 40%, #243656 0%, #0F1B33 50%, #0A1222 100%)",
+      "capaNavy": "radial-gradient(120% 120% at 50% 30%, #21335A, #16233F 46%, #0F1B33)",
+      "capaTurquesa": "radial-gradient(120% 120% at 50% 32%, #37E3D6, #00CEC9 52%, #05B3AE)",
+      "capaWarm": "radial-gradient(120% 120% at 50% 30%, #FFFFFF, #FAF9F7 55%, #EEF0EE)"
+    }
+  },
+  "tipografia": {
+    "familia": "Sora (variável 100–800)",
+    "arquivo": "assets/fontes/sora-var.woff2",
+    "titulo": 300, "keyword": 800, "tag": 600, "apoio": 300, "nomes1a1": 700
+  },
+  "formatos": {
+    "post": [1080, 1350], "story": [1080, 1920], "card": [1080, 1080], "carrossel": [1920, 1080]
+  },
+  "regras": [
+    "Turquesa é acento único, nunca fundo inteiro",
+    "Fundo claro é warm #FAF9F7, nunca branco puro",
+    "Nunca 2 cards navy seguidos no feed",
+    "Palavra-chave entre aspas ou asteriscos vira negrito turquesa",
+    "Nunca itálico",
+    "Sem emoji; sem travessão em texto corrido (usar · ou :)",
+    "Nunca recriar o logo: usar os PNGs oficiais"
+  ]
+}

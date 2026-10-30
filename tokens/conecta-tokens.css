@@ -1,0 +1,56 @@
+/* ==========================================================================
+   Conecta · Núcleo de Negócios ACIGRA · Design tokens
+   Fonte: codigo-estudio/cores.ts e conecta.css (Estúdio de Marca KA).
+   Cole este arquivo em qualquer site/peça HTML para herdar a marca.
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Sora Conecta';
+  src: url('../assets/fontes/sora-var.woff2') format('woff2');
+  font-weight: 100 800;
+  font-display: swap;
+}
+
+:root {
+  /* Cores principais */
+  --conecta-turquesa: #00CEC9;   /* acento ÚNICO: tags, keyword, linhas, números */
+  --conecta-navy: #1B2A4A;       /* texto dominante / base dos gradientes */
+  --conecta-warm: #FAF9F7;       /* fundo claro (nunca #FFFFFF puro) */
+
+  /* Auxiliares */
+  --conecta-dark: #0F1B33;
+  --conecta-darker: #0A1222;
+  --conecta-apoio-escuro: #8395A7; /* texto de apoio sobre fundo escuro */
+  --conecta-apoio-claro: #636E72;  /* texto de apoio sobre fundo claro */
+  --conecta-off-white: #C8D6E5;
+  --conecta-branco: #FFFFFF;
+
+  /* Paleta estendida (fundo e texto) */
+  --conecta-teal: #1C9E8C;
+  --conecta-turquesa-vivo: #2FE0D2;
+  --conecta-aco: #73839E;
+  --conecta-marinho-profundo: #16294A;
+  --conecta-ardosia: #52627E;
+  --conecta-gelo: #DBE4EC;
+  --conecta-quase-branco: #EDF1F7;
+
+  /* Gradientes oficiais */
+  --conecta-grad-navy: linear-gradient(170deg, #0A1222 0%, #0F1B33 40%, #1B2A4A 100%);
+  --conecta-grad-cta: radial-gradient(ellipse at 50% 40%, #243656 0%, #0F1B33 50%, #0A1222 100%);
+
+  /* Gradientes das capas de destaque */
+  --conecta-capa-navy: radial-gradient(120% 120% at 50% 30%, #21335A, #16233F 46%, #0F1B33);
+  --conecta-capa-turquesa: radial-gradient(120% 120% at 50% 32%, #37E3D6, #00CEC9 52%, #05B3AE);
+  --conecta-capa-warm: radial-gradient(120% 120% at 50% 30%, #FFFFFF, #FAF9F7 55%, #EEF0EE);
+
+  /* Tipografia */
+  --conecta-fonte: 'Sora Conecta', 'Sora', system-ui, sans-serif;
+  --conecta-peso-titulo: 300;    /* título leve, editorial */
+  --conecta-peso-keyword: 800;   /* palavra-chave em turquesa */
+  --conecta-peso-tag: 600;       /* tag em MAIÚSCULAS espaçada */
+  --conecta-peso-apoio: 300;
+}
+
+/* Palavra-chave: negrito turquesa, nunca itálico */
+.conecta-kw { font-weight: var(--conecta-peso-keyword); color: var(--conecta-turquesa); font-style: normal; }
+.conecta-tag { font-weight: var(--conecta-peso-tag); color: var(--conecta-turquesa); text-transform: uppercase; letter-spacing: .22em; }
