@@ -23,6 +23,19 @@ volume padronizado), legenda sincronizada com palavra-chave em turquesa e
 crachá de nome no padrão Conecta. Textos e legendas revisados em
 `fonte-edicao/reels/textos-e-legendas.py`.
 
+## Reels v3 (versão atual) · `reels-marcas-e-lideres-2026-v3-voz-limpa.mp4`
+
+1080 × 1920 · 2 min 40 s. Mesma montagem da v2, com:
+
+- **Só a voz dos entrevistados:** o áudio de cada entrevista passou por IA de
+  separação de voz (DPDFNet 48 kHz, via sherpa-onnx), mais um gate suave nas
+  pausas. O fundo nas pausas caiu para cerca de 30 dB abaixo da fala. A
+  retranscrição do áudio limpo manteve todas as palavras.
+- **Letterings sem o textinho de cima:** nenhuma frase tem mais a tag pequena.
+  O primeiro lettering é "Marcas & Líderes · Gravataí 2026" (grande) e o
+  segundo é "A noite das marcas mais lembradas de Gravataí". O crachá de nome
+  e o card final também ficaram sem a linha pequena.
+
 ## Reels v2 (com cenas do evento) · `reels-marcas-e-lideres-2026-v2-com-cenas.mp4`
 
 1080 × 1920 · 2 min 40 s. Mesma abertura da v1. Nas entrevistas, a voz da
