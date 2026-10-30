@@ -14,7 +14,7 @@ h1{font-weight:250;font-size:84px;line-height:1.1;letter-spacing:-.01em}h1 b{fon
 .li{font-weight:300;font-size:70px;line-height:1.25;display:flex;align-items:center;gap:26px}.li i{font-style:normal;font-weight:200;font-size:34px;color:#00CEC9;width:60px}
 .nome{position:absolute;top:930px;left:80px;max-width:820px;background:rgba(15,27,51,.86);border-left:6px solid #00CEC9;padding:26px 34px 28px}
 .nome .tag{font-size:22px;margin-bottom:14px}.nome .n{font-weight:700;font-size:48px;text-transform:uppercase;letter-spacing:.02em;line-height:1.1}
-.nome .s2{font-weight:300;font-size:30px;color:#C8D6E5;margin-top:10px}
+.nome .s2{font-weight:400;font-size:38px;color:#C8D6E5;margin-top:10px}
 .cap{position:absolute;left:110px;right:150px;bottom:500px;text-align:center;font-weight:600;font-size:56px;line-height:1.22;text-shadow:0 3px 14px rgba(0,0,0,.85),0 0 3px rgba(0,0,0,.9)}
 .cap b{font-weight:800;color:#00CEC9}`;
 (async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,height:1920}});

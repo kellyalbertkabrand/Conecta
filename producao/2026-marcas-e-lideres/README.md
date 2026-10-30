@@ -23,7 +23,18 @@ volume padronizado), legenda sincronizada com palavra-chave em turquesa e
 crachá de nome no padrão Conecta. Textos e legendas revisados em
 `fonte-edicao/reels/textos-e-legendas.py`.
 
-## Reels v3 (versão atual) · `reels-marcas-e-lideres-2026-v3-voz-limpa.mp4`
+## Reels v4 (versão atual) · `reels-marcas-e-lideres-2026-v4.mp4`
+
+1080 × 1920 · 2 min 49 s. Igual à v3, com:
+
+- **Francielle Braz · Braz Quiropraxia** depois da Adriana (9 s, voz isolada
+  por IA, foto do grupo quando ela fala das "quatro colegas").
+- **Crachás:** nome em cima e empresa embaixo, empresa um pouco maior.
+  Grazi Martini · Coordenadora do Conecta / Carolina Bedin Frigeri · Amor de
+  Bicho / **Alexandre Marcos · Pampas Garden** / Eloisa Nunes · Parkolor /
+  Adriana Mocelin · LA Cosméticos / Francielle Braz · Braz Quiropraxia.
+
+## Reels v3 · `reels-marcas-e-lideres-2026-v3-voz-limpa.mp4`
 
 1080 × 1920 · 2 min 40 s. Mesma montagem da v2, com:
 
