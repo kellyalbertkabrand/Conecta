@@ -23,6 +23,24 @@ volume padronizado), legenda sincronizada com palavra-chave em turquesa e
 crachá de nome no padrão Conecta. Textos e legendas revisados em
 `fonte-edicao/reels/textos-e-legendas.py`.
 
+## Reels v2 (com cenas do evento) · `reels-marcas-e-lideres-2026-v2-com-cenas.mp4`
+
+1080 × 1920 · 2 min 40 s. Mesma abertura da v1. Nas entrevistas, a voz da
+pessoa continua enquanto a imagem alterna entre ela e cenas do evento ligadas
+ao que está sendo dito:
+
+| Entrevista | Cenas do evento intercaladas |
+| --- | --- |
+| Grazi | Grupo do Conecta no salão · palco com todos os premiados · a própria câmera passando pelos premiados |
+| Carol · Amor de Bicho | Categoria Pet Shop no palco · foto com os troféus erguidos |
+| Pampas Garden | Telão com os finalistas da categoria · ele no palco · foto do grupo quando cita o Conecta |
+| Eloisa · Parkolor | Telão da categoria Fotografia · as 4 premiadas com os troféus ("quatro troféus") |
+| Adriana · LA Cosméticos | Telão com os finalistas (LA Cosméticos) · foto dela com o troféu |
+
+Depois da Adriana: 15 s de cenas do evento com "Parabéns aos nucleados
+**premiados**" e o card final. Legendas em até 2 linhas, brancas e em peso
+regular (sem negrito e sem turquesa).
+
 ---
 
 ## Carrossel 4:5 (primeira versão)
