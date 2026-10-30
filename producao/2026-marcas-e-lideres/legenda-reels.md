@@ -18,7 +18,7 @@ Parabéns a cada nucleado premiado e obrigado à ACIGRA por valorizar quem empre
 
 Conecta | Pessoas que fortalecem pessoas. Negócios que crescem juntos.
 
-#MarcasELideres #Gravataí #ACIGRA #ConectaACIGRA #NucleoDeNegocios #Empreendedorismo
+#Gravataí #ACIGRA #Conecta #Empreendedorismo #Reconhecimento
 ```
 
 ## Perfis marcados (fonte: Guia de Negócios do Conecta)
