@@ -15,7 +15,7 @@ h1{font-weight:250;font-size:84px;line-height:1.1;letter-spacing:-.01em}h1 b{fon
 .nome{position:absolute;top:930px;left:80px;max-width:820px;background:rgba(15,27,51,.86);border-left:6px solid #00CEC9;padding:26px 34px 28px}
 .nome .tag{font-size:22px;margin-bottom:14px}.nome .n{font-weight:700;font-size:48px;text-transform:uppercase;letter-spacing:.02em;line-height:1.1}
 .nome .s2{font-weight:300;font-size:30px;color:#C8D6E5;margin-top:10px}
-.cap{position:absolute;left:120px;right:160px;bottom:500px;text-align:center;font-weight:400;font-size:52px;line-height:1.28;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.8),0 0 2px rgba(0,0,0,.7);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cap{position:absolute;left:120px;right:160px;bottom:565px;text-align:center;font-weight:400;font-size:52px;line-height:1.28;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.8),0 0 2px rgba(0,0,0,.7);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .cap b{font-weight:400;color:#fff}`;
 (async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,height:1920}});
 const shot=async(name,body,transp=true)=>{fs.writeFileSync(path.join(dir,'_t.html'),`<html><head><style>${css}</style></head><body>${body}</body></html>`);

@@ -23,7 +23,16 @@ volume padronizado), legenda sincronizada com palavra-chave em turquesa e
 crachá de nome no padrão Conecta. Textos e legendas revisados em
 `fonte-edicao/reels/textos-e-legendas.py`.
 
-## Reels v4 (versão atual) · `reels-marcas-e-lideres-2026-v4.mp4`
+## Reels v5 (versão atual) · `reels-marcas-e-lideres-2026-v5-leve.mp4`
+
+Igual à v4, com o **logo do Conecta centralizado no rodapé** (faixa segura:
+acima da legenda/curtidas do Instagram e fora dos ícones da lateral) em vez do
+topo, onde ficava sob o avatar no feed. Letterings e legendas subiram um pouco.
+A primeira tela já abre com "Marcas & Líderes Gravataí 2026" e o logo (cortado
+o quadro de capa da ACIGRA e o fade do preto do vídeo original). A capa PNG
+também foi refeita com o logo embaixo. Arquivo leve (40 MB) para celular.
+
+## Reels v4 · `reels-marcas-e-lideres-2026-v4.mp4`
 
 1080 × 1920 · 2 min 49 s. Igual à v3, com:
 

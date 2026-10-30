@@ -5,8 +5,8 @@ const css=`@font-face{font-family:Sora;src:url(sora-var.woff2) format('woff2');f
 *{margin:0;padding:0;box-sizing:border-box}html,body{width:1080px;height:1920px;background:transparent;font-family:Sora;color:#fff}
 .veil{position:absolute;left:0;right:0;bottom:0;height:1150px;background:linear-gradient(180deg,rgba(10,18,34,0),rgba(10,18,34,.6) 40%,rgba(10,18,34,.93))}
 .topveil{position:absolute;left:0;right:0;top:0;height:520px;background:linear-gradient(180deg,rgba(10,18,34,.7),rgba(10,18,34,0))}
-.logo{position:absolute;top:150px;left:80px;display:flex;align-items:center;gap:18px}.logo .s{height:60px}.logo .w{height:27px}
-.box{position:absolute;left:80px;right:150px;bottom:470px}
+.logo{position:absolute;top:1452px;left:0;right:0;display:flex;justify-content:center;align-items:center;gap:16px;filter:drop-shadow(0 2px 10px rgba(0,0,0,.6))}.logo .s{height:54px}.logo .w{height:24px}
+.box{position:absolute;left:80px;right:150px;bottom:575px}
 .tag{font-weight:600;font-size:28px;letter-spacing:.22em;color:#00CEC9;text-transform:uppercase;margin-bottom:28px}
 h1{font-weight:250;font-size:84px;line-height:1.1;letter-spacing:-.01em}h1 b{font-weight:800;color:#00CEC9}
 .line{width:100px;height:4px;background:#00CEC9;margin-top:36px}
@@ -21,7 +21,7 @@ h1{font-weight:250;font-size:84px;line-height:1.1;letter-spacing:-.01em}h1 b{fon
 const shot=async(name,body,transp=true)=>{fs.writeFileSync(path.join(dir,'_t.html'),`<html><head><style>${css}</style></head><body>${body}</body></html>`);
  await p.goto('file://'+path.join(dir,'_t.html'),{waitUntil:'load'});await p.evaluate(()=>document.fonts.ready);
  await p.screenshot({path:path.join(dir,name+'.png'),omitBackground:transp});};
-await shot('logo',`<div class="topveil"></div><div class="logo"><img class="s" src="conecta-simbolo-branco.png"><img class="w" src="conecta-wordmark-branco.png"></div>`);
+await shot('logo',`<div class="logo"><img class="s" src="conecta-simbolo-branco.png"><img class="w" src="conecta-wordmark-branco.png"></div>`);
 await shot('veil',`<div class="veil" style="height:900px"></div>`);
 for(const [k,o] of Object.entries(S.frases)){
  let inner='';
