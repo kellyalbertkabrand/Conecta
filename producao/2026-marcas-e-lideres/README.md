@@ -1,6 +1,32 @@
-# Carrossel · Marcas & Líderes Gravataí 2026
+# Marcas & Líderes Gravataí 2026
 
-Carrossel de vídeos do Conecta no evento Marcas & Líderes 2026 (ACIGRA).
+Conteúdos do Conecta sobre o prêmio Marcas & Líderes 2026, realizado pela
+ACIGRA (16ª edição). Quatro nucleados do Conecta premiados: Amor de Bicho,
+Pampas Garden, Parkolor e LA Cosméticos.
+
+## Reels (versão escolhida) · `reels-marcas-e-lideres-2026.mp4`
+
+1080 × 1920 · 2 min 25 s.
+
+| Tempo | Parte | Conteúdo |
+| --- | --- | --- |
+| 0:00 a 0:35 | Abertura sem áudio | Compilado do evento com frases que acompanham as imagens: a noite das marcas **mais lembradas** · realizado pela **ACIGRA** · 16ª edição · **04 nucleados** premiados · lista dos premiados · "Ouça quem viveu essa noite" |
+| 0:35 a 1:03 | Grazi Martini · Coordenadora do Conecta | Apresenta o núcleo e os 4 premiados |
+| 1:03 a 1:21 | Carolina Bedin Frigeri · Amor de Bicho | 1º lugar pela 10ª vez |
+| 1:21 a 1:55 | Pampas Garden | Agradece e cita o grupo Conecta |
+| 1:55 a 2:08 | Eloisa Nunes · Parkolor | Categoria Fotografia; "o Conecta leva quatro troféus" |
+| 2:08 a 2:20 | Adriana Mocelin · LA Cosméticos | Primeira vez no prêmio |
+| 2:20 a 2:25 | Card final | Pessoas que fortalecem pessoas. Negócios que crescem **juntos** |
+
+Entrevistas com áudio tratado (redução de ruído, equalização, compressão e
+volume padronizado), legenda sincronizada com palavra-chave em turquesa e
+crachá de nome no padrão Conecta. Textos e legendas revisados em
+`fonte-edicao/reels/textos-e-legendas.py`.
+
+---
+
+## Carrossel 4:5 (primeira versão)
+
 Formato de todos os slides: **1080 × 1350 (4:5)**.
 
 ## Estrutura do carrossel
