@@ -6,8 +6,9 @@ WhatsApp e site de cada um.
 - **No ar:** https://guiaconecta.netlify.app
 - **Arquivo:** `index.html` (página única, sem build, fotos e fonte embutidas)
 - **Origem:** repositório SistemaKA, pasta `conecta/` (branch
-  `claude/conecta-repository-7h00xx`, commit `a50207c`, ago/2026). Esta é uma
-  cópia da versão publicada.
+  `claude/conecta-repository-7h00xx`, commit `4fcff8a`, 03/11/2026). Versão com o
+  logo de cada nucleado no card, descrições revisadas e sem travessões.
+  Cópia da versão publicada.
 - **Netlify:** projeto `guiaconecta`.
 
 ## Categorias (ago/2026 · 35 nucleados)

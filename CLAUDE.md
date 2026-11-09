@@ -47,6 +47,8 @@ como fonte de verdade antes de criar ou revisar qualquer coisa do Conecta.
   (https://estudiodemarca.kellyalbert.com.br/conecta). O código desses cards
   está espelhado em `codigo-estudio/` (o original fica no repo SistemaKA,
   branch `estudiodemarca`, pasta `estudio-marca-ka/`).
+- Fotos, vídeos e logos (parceiros ACIGRA e Empreender, 33 nucleados):
+  `assets/midia/` (ver o README da pasta). Mídia nova do Conecta entra ali.
 - Guia de Negócios: `guia-de-negocios/index.html` (publicado em
   https://guiaconecta.netlify.app).
 

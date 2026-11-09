@@ -20,6 +20,9 @@ Projeto de marca: **KA | Inteligência para Marcas** (Kelly Albert).
 | Logo e símbolo (PNG oficiais) | [`assets/logo/`](assets/logo/) |
 | Fonte Sora (arquivo) | [`assets/fontes/sora-var.woff2`](assets/fontes/) |
 | Capas de destaque do Instagram prontas | [`assets/capas-destaques/`](assets/capas-destaques/) |
+| Fotos, vídeos e logos dos parceiros (ACIGRA, Empreender) e dos 33 nucleados | [`assets/midia/`](assets/midia/README.md) |
+| Vídeos prontos (retrospectiva 2026 e telão do Happy Hour) | [`assets/midia/videos_finais/`](assets/midia/README.md#videos_finais--vídeos-prontos) |
+| Peças produzidas (Reels, capas, legendas) | [`producao/`](producao/) |
 | Cores/gradientes prontos para código (CSS/JSON) | [`tokens/`](tokens/) |
 | Código dos 10 cards do Estúdio | [`codigo-estudio/`](codigo-estudio/) |
 | Guia de Negócios (site com os nucleados) | [`guia-de-negocios/`](guia-de-negocios/README.md) |
@@ -78,8 +81,13 @@ Tudo aqui foi consolidado a partir do repositório **SistemaKA** (out/2026):
 
 - Identidade visual, logos, fonte, capas e código → branch `estudiodemarca`
   (a versão publicada no Estúdio de Marca), pasta `estudio-marca-ka/`.
-- Guia de Negócios → pasta `conecta/` (versão publicada no Netlify).
+- Guia de Negócios → pasta `conecta/` (versão publicada no Netlify, atualizada
+  em 09/11/2026 com a versão de 03/11, que tem o logo de cada nucleado).
+- Mídia (fotos, vídeos, logos de parceiros e nucleados) → pasta `conecta/midia/`
+  e `logotipos/` da branch `claude/conecta-repository-7h00xx` (09/11/2026).
 - Estratégia → texto da KA de out/2026.
 
-**Manutenção:** se um layout mudar no Estúdio (SistemaKA), atualize aqui
-também, para este repositório continuar sendo a fonte de verdade.
+**Manutenção:** tudo do Conecta fica neste repositório. Se um layout mudar no
+Estúdio (SistemaKA) ou o Guia for editado lá, atualize aqui também, para este
+repositório continuar sendo a fonte de verdade. Fotos, vídeos e logos novos
+entram direto em `assets/midia/`.
